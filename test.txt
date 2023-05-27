@@ -4,10 +4,11 @@ git push			Day len github
 
 git fetch			Xem có sự thay đổi mới không
 git pull
-git checkout brachName		Chuyen den brachName
+git checkout brachName		Chuyen đến brachName
 
-git merge brachName		//Kết hợp brachName vào brach main
-git push
+Khi có thay đổi trên nhánh khác, mà muốn kết hợp:
+	+ git merge brachName		//Kết hợp brachName vào brach main
+	+ git push
 
 Khi thay đổi trên github:
 	+ git fetch		//Kiểm tra sự thay đổi
