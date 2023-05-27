@@ -1,2 +1,3 @@
 Xin chào mọi người
 Tôi là Hiep
+Tôi là fresher embedded in FPT software
