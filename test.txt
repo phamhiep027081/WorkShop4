@@ -9,3 +9,7 @@ git checkout brachName		Chuyen den brachName
 git merge brachName		//Kết hợp brachName vào brach main
 git push
 
+Khi thay đổi trên github:
+	+ git fetch		//Kiểm tra sự thay đổi
+	+ git pull		//Lấy thay đổi mới về computer
+
