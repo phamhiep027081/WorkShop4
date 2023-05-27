@@ -6,3 +6,6 @@ git fetch			Xem có sự thay đổi mới không
 git pull
 git checkout brachName		Chuyen den brachName
 
+git merge brachName		//Kết hợp brachName vào brach main
+git push
+
