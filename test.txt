@@ -1,1 +1,8 @@
-12346
+git add .			Them file moi
+git commit -m "message"		Them content change
+git push			Day len github
+
+git fetch			Xem co nhánh mới không
+git pull
+git checkout brachName		Chuyen den brachName
+
