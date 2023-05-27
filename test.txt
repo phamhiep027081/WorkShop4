@@ -18,5 +18,7 @@ Khi có sự thay đổi mới nhưng không muốn đẩy lên git hoặc chuy�
 	+ git restore .
 	+(or) git reset --h	(chỉ xóa các status thay đổi ở file đã tồn tại)
 	+ git clean -dxf	(xóa status là các file mới được tạo)
+Xem lại các commit:
+	+ git log
 
 
