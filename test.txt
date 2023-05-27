@@ -14,3 +14,9 @@ Khi thay đổi trên github:
 	+ git fetch		//Kiểm tra sự thay đổi
 	+ git pull		//Lấy thay đổi mới về computer
 
+Khi có sự thay đổi mới nhưng không muốn đẩy lên git hoặc chuyển về commit cũ:
+	+ git restore .
+	+(or) git reset --h	(chỉ xóa các status thay đổi ở file đã tồn tại)
+	+ git clean -dxf	(xóa status là các file mới được tạo)
+
+
